@@ -1,3 +1,7 @@
+# Bashar Abduljaleel
+# Feb 28, 2023
+# API: jobhunter script
+
 import mysql.connector
 import time
 import json
